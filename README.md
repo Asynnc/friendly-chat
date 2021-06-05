@@ -2,14 +2,14 @@ Friendly Chat App By using Firebase
 
 This app will use Google Sign in for logging in. User can chat and upload images.
 
-Demo: https://friendy-chat-dn.firebaseapp.com/
+Demo: https://friendlychat-b8e6c.web.app/
 
 # Prerequisites
 
 Clone this git repository
 
 ```
-git clone https://github.com/dalenguyen/friendlychat-app-firebase.git
+git clone https://github.com/tonybsilvadev/friendly-chat.git
 ```
 
 Install Firebase Command Line Interface
