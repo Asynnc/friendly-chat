@@ -9,7 +9,7 @@ Demo: https://friendlychat-b8e6c.web.app/
 Clone this git repository
 
 ```
-git clone https://github.com/tonybsilvadev/friendly-chat.git
+git clone https://github.com/Asynnc/friendly-chat.git
 ```
 
 Install Firebase Command Line Interface
